@@ -2,12 +2,11 @@
 
 Welcome to the Argo Complete Master Course repository. This course is designed to take you from beginner to advanced usage of Argo projects, including Argo Workflows, Argo CD, Argo Events, and Argo Rollouts.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
+## Table of Contents 
+- [ArgoCD-Complete-Master-Course](#argocd-complete-master-course)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Prerequisites](#prerequisites)
 
 ** Register for Argo CD Master course ** at https://www.udemy.com/course/argo-cd-master-course-expert-techniques-in-gitops-devops/?referralCode=8459F9206C53BAF712A4
 
